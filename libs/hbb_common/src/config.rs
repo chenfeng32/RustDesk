@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["vnc.piuni.cn"];
-pub const RS_PUB_KEY: &str = "78jwL1BmamnXLAW3tPHJiH8obUT0FDXuXC54Sd5vkMU=";
+pub const RS_PUB_KEY: &str = "5eN08PmuYpwkAmJ9IRt7sU7agdb1Z5J7aqpToLRVZA0=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
